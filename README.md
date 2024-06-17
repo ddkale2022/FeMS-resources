@@ -9,7 +9,7 @@ Welcome to the repository! This repository is dedicated to collecting resources 
 - [Stefanie Wernisch](https://www.linkedin.com/in/stefanie-wernisch/)
 - [Dipali Kale](https://www.linkedin.com/in/dipalikale/)
 
-### This repo codes related to data analysis  
+### This repo contains
 - [white papers related to career development](Careerdevelopmentwhitepapers.md)
 
 ## Contributing
