@@ -12,7 +12,7 @@ Welcome to the repository! This repository is dedicated to collecting resources 
 - [Dipali Kale](link to your GitHub profile)
 
 ### This repo codes related to data analysis  
-- [white papers related to career development ](1_kickstarter_eda_dk.ipynb)
+- [white papers related to career development ](Career development white papers.md)
 
 - 
 ## Contributing
