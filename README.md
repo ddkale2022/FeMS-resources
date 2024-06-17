@@ -14,7 +14,6 @@ Welcome to the repository! This repository is dedicated to collecting resources 
 ### This repo codes related to data analysis  
 - [white papers related to career development](Career development white papers.md)
 
-- 
 ## Contributing
 
 We welcome contributions to expand this list! If you have resources or white papers related to career development that you would like to add, please follow these steps:
