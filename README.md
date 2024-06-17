@@ -1,7 +1,5 @@
 # FeMS-resources
 
-# FEM Resources and Career Development White Papers
-
 Welcome to the repository! This repository is dedicated to collecting resources and white papers related to career development
 
 ## Contributors
