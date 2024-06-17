@@ -8,7 +8,7 @@ Welcome to the repository! This repository is dedicated to collecting resources 
 
 
 - [Angie Mc Ardle](https://www.linkedin.com/in/angie-mc-ardle/)
-- [Ste](https://www.linkedin.com/in/stefanie-wernisch/)
+- [Stefanie Wernisch](https://www.linkedin.com/in/stefanie-wernisch/)
 - [Dipali Kale](link to your GitHub profile)
 The resources are listed in a file 
 
