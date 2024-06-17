@@ -16,7 +16,7 @@ The resources are listed in a file
 
 ## Contributing
 
-We welcome contributions to expand this list! If you have resources or white papers related to career development in FEM that you would like to add, please follow these steps:
+We welcome contributions to expand this list! If you have resources or white papers related to career development that you would like to add, please follow these steps:
 
 1. Fork this repository and clone it to your local machine.
 2. Create a new branch (`git checkout -b feature/add-new-resources`).
