@@ -9,7 +9,7 @@ Welcome to the repository! This repository is dedicated to collecting resources 
 
 - [Angie Mc Ardle](https://www.linkedin.com/in/angie-mc-ardle/)
 - [Stefanie Wernisch](https://www.linkedin.com/in/stefanie-wernisch/)
-- [Dipali Kale](link to your GitHub profile)
+- [Dipali Kale](https://www.linkedin.com/in/dipalikale/)
 
 ### This repo codes related to data analysis  
 - [white papers related to career development ](Career development white papers.md)
