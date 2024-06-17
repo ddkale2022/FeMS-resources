@@ -10,9 +10,11 @@ Welcome to the repository! This repository is dedicated to collecting resources 
 - [Angie Mc Ardle](https://www.linkedin.com/in/angie-mc-ardle/)
 - [Stefanie Wernisch](https://www.linkedin.com/in/stefanie-wernisch/)
 - [Dipali Kale](link to your GitHub profile)
-The resources are listed in a file (Career development white papers.md)
 
+### This repo codes related to data analysis  
+- [white papers related to career development ](1_kickstarter_eda_dk.ipynb)
 
+- 
 ## Contributing
 
 We welcome contributions to expand this list! If you have resources or white papers related to career development that you would like to add, please follow these steps:
