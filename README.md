@@ -10,7 +10,7 @@ Welcome to the repository! This repository is dedicated to collecting resources 
 - [Dipali Kale](https://www.linkedin.com/in/dipalikale/)
 
 ### This repo codes related to data analysis  
-- [white papers related to career development](Career development white papers.md)
+- [white papers related to career development](Careerdevelopmentwhitepapers.md)
 
 ## Contributing
 
