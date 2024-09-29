@@ -10,9 +10,9 @@ Welcome to the repository! This repository is dedicated to collecting resources 
 - [Dipali Kale](https://www.linkedin.com/in/dipalikale/)
 
 ### This repo contains
-- [Career Development White Papers](Career_development_white_papers.md) by [Angie Mc Ardle], offering insights and strategies for career growth.
-- [Career Development Tools](Career_development_tools.md) compiled by [Stefanie Wernisch], featuring resources and toolkits for professional advancement.
-- [Resources for Emotional Resilience and Professional Growth](emotional_resilience_professional_growth.md) curated by Dipali Kale, focusing on well-being and career success. Dipali developed a GitHub repository incorporating insights from Angie and Stefanie."
+- [Career Development White Papers](Career_development_white_papers.md) by Angie Mc Ardle, offering insights and strategies for career growth.
+- [Career Development Tools](Career_development_tools.md) compiled by Stefanie Wernisch, featuring resources and toolkits for professional advancement.
+- [Resources for Emotional Resilience and Professional Growth](emotional_resilience_professional_growth.md) curated by Dipali Kale, focusing on well-being and career success. Dipali developed a GitHub repository incorporating insights from Angie and Stefanie.
 
 
 
